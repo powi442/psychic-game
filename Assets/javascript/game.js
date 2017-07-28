@@ -33,6 +33,7 @@ function reset() {
   computerChoice();
   computerChoiceResult = computerChoice();
   console.log(computerChoiceResult);
+  guessedLetters = [];
 }
 
 // main process
